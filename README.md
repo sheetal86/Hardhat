@@ -30,16 +30,6 @@ In the same directory where you installed Hardhat run:
 npx hardhat
 Select Create an empty hardhat.config.js with your keyboard and hit enter.
 
-$ npx hardhat
-888    888                      888 888               888
-888    888                      888 888               888
-888    888                      888 888               888
-8888888888  8888b.  888d888 .d88888 88888b.   8888b.  888888
-888    888     "88b 888P"  d88" 888 888 "88b     "88b 888
-888    888 .d888888 888    888  888 888  888 .d888888 888
-888    888 888  888 888    Y88b 888 888  888 888  888 Y88b.
-888    888 "Y888888 888     "Y88888 888  888 "Y888888  "Y888
-
 👷 Welcome to Hardhat v2.17.0 👷‍
 
 ? What do you want to do? …
